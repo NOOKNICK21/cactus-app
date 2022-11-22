@@ -1,16 +1,17 @@
-# cactus
+# CACTUS
+## แอพพลิเคชั่นแคคตัส
+### แอพขายกระบองเพชรที่รวบรวมต้นกระบองเพชรหลากหลายสายพันธุ์ให้คุณเลือกซื้อผ่านแอพของเราได้ง่ายๆ
 
-A new Flutter project.
+## Use Case Diagram
+![1](https://user-images.githubusercontent.com/114046284/203303490-66b689ce-5c2c-4fbc-8daf-8aafc6d5e12c.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# แอพพลิเคชั่นแคคตัส
+## User Interface Design
+### ดูหน้าซื้อขายต้นกระบองเพชร
+![2](https://user-images.githubusercontent.com/114046284/203303800-ef1e0ef3-ae31-4d25-9fa8-d38199cda59f.png)
 
-A few resources to get you started if this is your first Flutter project:
+### ค้นหาต้นกระบองเพชรที่คุณถูกใจ
+![3](https://user-images.githubusercontent.com/114046284/203303833-990a0c13-38b7-42c1-974b-2381d2e88dbf.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### อ้างอิงจาก https://www.youtube.com/watch?v=e8avvPPhyVk&list=WL&index=8&t=833s
